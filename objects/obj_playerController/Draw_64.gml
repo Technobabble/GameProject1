@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 7A4502E5
+/// @DnDArgument : "font" "-1"
+draw_set_font(-1);
+
 /// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1
 /// @DnDHash : 36AF4014

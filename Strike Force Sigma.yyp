@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "42082e9a-9a35-49e7-bdfb-f37669ecacff",
+            "Value": {
+                "id": "7c724b4c-732d-4203-b15e-58ce9470611c",
+                "resourcePath": "objects\\obj_boss_turretholder_segment\\obj_boss_turretholder_segment.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "47609800-6f36-493d-b164-c228e08bcc64",
             "Value": {
                 "id": "17930441-0242-4df0-895c-afd6147f4ae3",
@@ -172,6 +180,14 @@
                 "id": "26880485-a2d0-4c87-b29d-eed447045eaf",
                 "resourcePath": "sprites\\spr_boss_wingL\\spr_boss_wingL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "514e20ce-3b5b-4983-9dc3-c5ac18eb3937",
+            "Value": {
+                "id": "7ecd5f3d-f04a-4ce9-90e3-51bc30d16574",
+                "resourcePath": "objects\\obj_basic_target\\obj_basic_target.yy",
+                "resourceType": "GMObject"
             }
         },
         {
