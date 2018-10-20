@@ -11,3 +11,10 @@ yOffset= 0;
 /// @DnDArgument : "health" "20"
 
 __dnd_health = real(20);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5258B67A
+/// @DnDArgument : "expr" "10"
+/// @DnDArgument : "var" "score_value"
+score_value = 10;

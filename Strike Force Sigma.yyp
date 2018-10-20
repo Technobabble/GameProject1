@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "055dc498-c530-4ff1-a843-32fd16d86334",
+            "Value": {
+                "id": "d8b32e04-81ec-4bae-a5a7-84a54e6f5a6d",
+                "resourcePath": "objects\\obj_basic_projectile\\obj_basic_projectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "063fed12-7e3f-4e69-9730-7d1f698398dd",
             "Value": {
                 "id": "9ae7e0fd-9e8b-4ce3-ae30-e140ac31d47d",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "2445cbd8-7543-4775-9beb-2d414259ea57",
+            "Value": {
+                "id": "51d112d5-e4dd-4f4f-a26b-27cb75201c0f",
+                "resourcePath": "sprites\\spr_blast2\\spr_blast2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2472cb4e-5d62-4538-9f2e-f527b9d5e65a",
             "Value": {
                 "id": "c6c50427-eac2-44ab-92c3-d82936472704",
@@ -95,11 +111,27 @@
             }
         },
         {
+            "Key": "25c45f1d-6172-4dc4-a6b7-bd2743201fbe",
+            "Value": {
+                "id": "2e6125a1-8bcb-4ccb-a35e-458ffa1936b5",
+                "resourcePath": "objects\\obj_weapon_powerup\\obj_weapon_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2914deb8-22fc-46cb-af62-4f7599009132",
             "Value": {
                 "id": "07caa26c-6430-4e62-b1fd-85e13ac851cd",
                 "resourcePath": "sprites\\spr_blast1\\spr_blast1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "325a75ae-df3b-4a63-8d22-71f2cc3dce9e",
+            "Value": {
+                "id": "f424fa3c-b2d2-421e-9ad3-b46e6d50628f",
+                "resourcePath": "objects\\obj_basic_powerup\\obj_basic_powerup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -139,6 +171,14 @@
             "Value": {
                 "id": "7c724b4c-732d-4203-b15e-58ce9470611c",
                 "resourcePath": "objects\\obj_boss_turretholder_segment\\obj_boss_turretholder_segment.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "42cdd439-d3a0-41ac-86fe-cdaa599e7eb6",
+            "Value": {
+                "id": "1dedaf38-c513-4e72-a708-5053227c4842",
+                "resourcePath": "objects\\obj_blast2\\obj_blast2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -391,6 +431,14 @@
             }
         },
         {
+            "Key": "bffccb37-02fe-4119-8937-28236c3753c4",
+            "Value": {
+                "id": "6f896f77-85c1-46d7-aac7-64694069fe8d",
+                "resourcePath": "sprites\\spr_powerup_weapon\\spr_powerup_weapon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c54ca377-426e-4a11-8495-c296bab57c7d",
             "Value": {
                 "id": "3bd2dbed-0d47-4425-a739-c1948a0850ac",
@@ -412,6 +460,14 @@
                 "id": "b5432fab-83e4-4a9a-8b00-17c2194a8224",
                 "resourcePath": "views\\c984845e-7252-481f-987a-0ebbb2fe479e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb80d2ce-383a-44c5-82bd-f84130808e43",
+            "Value": {
+                "id": "aa0ba1f9-9fbc-48b3-b300-4a769b0d33e8",
+                "resourcePath": "objects\\obj_health_powerup\\obj_health_powerup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -532,6 +588,14 @@
                 "id": "c27c30f7-57de-4332-906d-9db59fc0e8c8",
                 "resourcePath": "views\\fa218969-b3b0-4a57-8641-a9245ab419eb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fc889192-de57-471b-9516-a35dadd2482d",
+            "Value": {
+                "id": "36b81db5-81f2-4be3-9792-bfcd2bb6097c",
+                "resourcePath": "objects\\obj_life_powerup\\obj_life_powerup.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

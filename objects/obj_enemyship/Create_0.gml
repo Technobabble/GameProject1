@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2AC082A5
+/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "var" "score_value"
+score_value = 5;
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 2D52BDC3
