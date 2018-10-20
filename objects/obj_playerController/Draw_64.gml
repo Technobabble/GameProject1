@@ -40,14 +40,15 @@ if(l36AF4014_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 4CAE7393
 	/// @DnDParent : 36AF4014
-	/// @DnDArgument : "y" "55"
+	/// @DnDArgument : "x" "32"
+	/// @DnDArgument : "y" "84"
 	/// @DnDArgument : "sprite" "spr_playership"
 	/// @DnDSaveInfo : "sprite" "e864f3c0-b03a-48f5-89c7-e8b45d528a61"
 	var l4CAE7393_0 = sprite_get_width(spr_playership);
 	var l4CAE7393_1 = 0;
 	if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 	for(var l4CAE7393_2 = __dnd_lives; l4CAE7393_2 > 0; --l4CAE7393_2) {
-		draw_sprite(spr_playership, 0, 0 + l4CAE7393_1, 55);
+		draw_sprite(spr_playership, 0, 32 + l4CAE7393_1, 84);
 		l4CAE7393_1 += l4CAE7393_0;
 	}
 

@@ -11,3 +11,10 @@ __dnd_health = real(20);
 /// @DnDArgument : "steps" "room_speed * 5"
 /// @DnDArgument : "alarm" "1"
 alarm_set(1, room_speed * 5);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 723BB39E
+/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "var" "local_speed"
+local_speed = 2;
