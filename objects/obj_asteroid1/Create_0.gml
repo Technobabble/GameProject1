@@ -4,3 +4,16 @@
 /// @DnDArgument : "health" "10"
 
 __dnd_health = real(10);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 52F136E2
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "score_value"
+score_value = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 020A7D3A
+/// @DnDArgument : "var" "local_vspeed"
+local_vspeed = 0;

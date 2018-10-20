@@ -16,5 +16,5 @@ alarm_set(1, room_speed * 5);
 /// @DnDVersion : 1
 /// @DnDHash : 723BB39E
 /// @DnDArgument : "expr" "2"
-/// @DnDArgument : "var" "local_speed"
-local_speed = 2;
+/// @DnDArgument : "var" "local_vspeed"
+local_vspeed = 2;

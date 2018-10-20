@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "92b51325-8e53-440a-acca-cc58a45672ae",
+            "Value": {
+                "id": "45e9a6b3-5643-4009-8070-ee91ae83dfbc",
+                "resourcePath": "objects\\obj_basic_movetarget\\obj_basic_movetarget.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "99b3d3bb-fc63-43d5-ad0d-0d5f0a88e6e9",
             "Value": {
                 "id": "44133430-89fd-4daf-b86b-92c52328008d",

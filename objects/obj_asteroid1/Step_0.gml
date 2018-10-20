@@ -5,9 +5,7 @@
 /// @DnDArgument : "angle_relative" "1"
 image_angle += 15/room_speed;
 
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Instances.Inherit_Event
 /// @DnDVersion : 1
-/// @DnDHash : 0201CC4B
-/// @DnDArgument : "speed" "obj_roomManager.lvl_vspeed_actual"
-/// @DnDArgument : "type" "2"
-vspeed = obj_roomManager.lvl_vspeed_actual;
+/// @DnDHash : 0D99BDA0
+event_inherited();

@@ -5,16 +5,6 @@
     "name": "obj_enemyship",
     "eventList": [
         {
-            "id": "5741bafe-e39f-4378-aa2b-c6f7a6291514",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "7d7164b0-57d7-40c2-b529-366b7c96a792"
-        },
-        {
             "id": "d082cf31-bffd-4e95-83e6-b6de5aabcd1b",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -32,26 +22,6 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 7,
-            "m_owner": "7d7164b0-57d7-40c2-b529-366b7c96a792"
-        },
-        {
-            "id": "90b5c5d9-7b32-438a-9902-b55145138a05",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "ec6d7c17-39c1-42a9-a99e-9b7c819d10f4",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "7d7164b0-57d7-40c2-b529-366b7c96a792"
-        },
-        {
-            "id": "ab9a4891-d159-4c5e-8cc5-ec866f516e34",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
             "m_owner": "7d7164b0-57d7-40c2-b529-366b7c96a792"
         },
         {
@@ -77,7 +47,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "92b51325-8e53-440a-acca-cc58a45672ae",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

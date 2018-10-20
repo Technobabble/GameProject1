@@ -5,16 +5,6 @@
     "name": "obj_boss_wingL",
     "eventList": [
         {
-            "id": "8cf85e60-d767-4be2-a8a0-be1dc757b929",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "3fdc9c8c-ee24-45c2-b137-8cded71650c3"
-        },
-        {
             "id": "5f178202-0c3c-49b9-9e8a-c37699acac76",
             "modelName": "GMEvent",
             "mvc": "1.0",
