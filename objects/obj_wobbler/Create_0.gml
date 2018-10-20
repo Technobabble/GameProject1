@@ -22,7 +22,7 @@ __dnd_health = real(20);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 6E599EBD
-/// @DnDArgument : "code" "wobble_phase_scale = 200;//Pixels/Rotation$(13_10)wobble_phase_pos = 0;$(13_10)wobble_max_range = 800;$(13_10)wobble_optimal_range = 100;$(13_10)wobble_scale_base = 1;//Max dist angle offset limit$(13_10)wobble_angle = 0;$(13_10)target_angle = 0;$(13_10)target_distance = 0;$(13_10)local_speed = 4;$(13_10)wobble_angle_offset = 0;$(13_10)wobble_scale = 1;$(13_10)wobble_angle_limit = 80; //current distance angle offset limit$(13_10)wobble_cycles_second = 1;//cycle/sec$(13_10)wobble_angle_speed = 0;$(13_10)wobble_dir = -1;"
+/// @DnDArgument : "code" "wobble_phase_scale = 200;//Pixels/Rotation$(13_10)wobble_phase_pos = 0;$(13_10)wobble_max_range = 800;$(13_10)wobble_optimal_range = 100;$(13_10)wobble_scale_base = 1;//Max dist angle offset limit$(13_10)wobble_angle = 0;$(13_10)target_angle = 0;$(13_10)target_distance = 0;$(13_10)local_speed = 4;$(13_10)wobble_angle_offset = 0;$(13_10)wobble_scale = 1;$(13_10)wobble_angle_limit = 80; //current distance angle offset limit$(13_10)wobble_cycles_second = 1;//cycle/sec$(13_10)wobble_angle_speed = 0;$(13_10)wobble_dir = -1;$(13_10)$(13_10)$(13_10)score_value = 10;"
 wobble_phase_scale = 200;//Pixels/Rotation
 wobble_phase_pos = 0;
 wobble_max_range = 800;
@@ -38,6 +38,9 @@ wobble_angle_limit = 80; //current distance angle offset limit
 wobble_cycles_second = 1;//cycle/sec
 wobble_angle_speed = 0;
 wobble_dir = -1;
+
+
+score_value = 10;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

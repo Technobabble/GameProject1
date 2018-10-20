@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1c0546e3-0586-4244-8d45-da410aa0d96e",
+            "Value": {
+                "id": "2d758496-bd04-4f62-8fd3-b2e1341223bb",
+                "resourcePath": "objects\\obj_basic_pathtarget\\obj_basic_pathtarget.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1fdbd50d-ab08-4e6d-951f-a658a68dea22",
             "Value": {
                 "id": "4d5e7b6c-92ad-41fa-820b-1fb677ee74b4",
@@ -100,6 +108,14 @@
                 "id": "cff99277-a129-40bd-8795-d77625d24f71",
                 "resourcePath": "sprites\\spr_asteroid1\\spr_asteroid1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3dbb5627-a2be-49f6-9c83-155120bee681",
+            "Value": {
+                "id": "f02fd033-eacd-4b48-ae97-1bf7f62c5a9f",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -295,10 +311,26 @@
             }
         },
         {
+            "Key": "90b58387-8dfb-4b5f-8a1c-ef137ba0012b",
+            "Value": {
+                "id": "88d42d16-9ac9-4076-8894-02b64d389e22",
+                "resourcePath": "objects\\obj_enemy_squad_controller1\\obj_enemy_squad_controller1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92b51325-8e53-440a-acca-cc58a45672ae",
             "Value": {
                 "id": "45e9a6b3-5643-4009-8070-ee91ae83dfbc",
                 "resourcePath": "objects\\obj_basic_movetarget\\obj_basic_movetarget.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "97c155c1-60c2-4fa1-8da1-ccd5f2e6acef",
+            "Value": {
+                "id": "26e9ae92-64a6-46cb-92ef-5ed4ccfe9d83",
+                "resourcePath": "objects\\obj_squadron_enemyship\\obj_squadron_enemyship.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -412,6 +444,22 @@
                 "id": "ead7c9e1-c272-497a-8ca2-60e20fb87fd7",
                 "resourcePath": "views\\d46c9904-3194-4d2a-b02f-a61fbdd586c0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d6cc408b-9a2b-49e5-800e-8f93a40575ee",
+            "Value": {
+                "id": "e8e4e35c-2cce-48d0-aa85-8ee8292b85ad",
+                "resourcePath": "sprites\\spr_squadron_enemyship\\spr_squadron_enemyship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dc6c8af3-956b-49bc-b7c4-641265e0a938",
+            "Value": {
+                "id": "ed40326b-25c6-4532-90ef-d1720cf9433a",
+                "resourcePath": "objects\\obj_squadron_controller_basic\\obj_squadron_controller_basic.yy",
+                "resourceType": "GMObject"
             }
         },
         {
