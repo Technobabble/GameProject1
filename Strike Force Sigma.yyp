@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "18422af2-5959-479b-bbbc-b709bacf797e",
+            "Value": {
+                "id": "e11f4f5b-04a4-490b-b3aa-6ce6bc1095aa",
+                "resourcePath": "sprites\\spr_enemyblast2\\spr_enemyblast2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "194d87f5-7d00-4ca6-8dfa-9fda65bfde10",
+            "Value": {
+                "id": "bfb716af-021a-4c57-bbb6-55982947c78a",
+                "resourcePath": "sprites\\spr_boss2_left\\spr_boss2_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1a657729-dc57-499f-b8be-03e132792a4d",
             "Value": {
                 "id": "95bd6c5a-1dd0-42c7-be7c-225da455f3ad",
@@ -407,6 +423,14 @@
             }
         },
         {
+            "Key": "80dc3552-8cf3-4ae0-86b8-0c42299b9da0",
+            "Value": {
+                "id": "050082e0-2492-4990-82b9-3e11c15343ac",
+                "resourcePath": "sprites\\spr_boss2_right\\spr_boss2_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "81c1bee2-64a8-4cf8-8f76-9802e07398a5",
             "Value": {
                 "id": "27668966-0cc6-4e55-8c5a-55ea5bc55770",
@@ -460,6 +484,14 @@
                 "id": "54df68da-cc87-4ffd-a2ec-0ce76145e04f",
                 "resourcePath": "views\\8ae3d4e9-dc34-4b72-92e6-1476c81afa5f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "909e1118-65f2-4967-a87d-9943bfcaf0d7",
+            "Value": {
+                "id": "327671ea-4ed4-4fdd-9029-a68132392d41",
+                "resourcePath": "objects\\obj_enemyblast2\\obj_enemyblast2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -636,6 +668,14 @@
                 "id": "45d8c278-f431-4e08-a7aa-dbdc3222d227",
                 "resourcePath": "views\\d11b385a-b3da-417b-bde3-0b947aee02bb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d3b16ce7-3bb5-4b88-ae92-f7eeff93cdd0",
+            "Value": {
+                "id": "92037d73-1476-4571-a749-94c64f0af922",
+                "resourcePath": "sprites\\sprite28\\sprite28.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

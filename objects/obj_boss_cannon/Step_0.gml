@@ -21,4 +21,40 @@ if(l72988133_0)
 	/// @DnDParent : 72988133
 	/// @DnDArgument : "angle" "point_direction(x,y,obj_playership.x, obj_playership.y) - 90"
 	image_angle = point_direction(x,y,obj_playership.x, obj_playership.y) - 90;
+
+	/// @DnDAction : YoYo Games.Movement.Set_Direction_Free
+	/// @DnDVersion : 1
+	/// @DnDHash : 4BE50BD0
+	/// @DnDParent : 72988133
+	/// @DnDArgument : "direction" "point_direction(x,y,obj_playership.x, obj_playership.y) "
+	direction = point_direction(x,y,obj_playership.x, obj_playership.y) ;
+
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4089ACD8
+	/// @DnDParent : 72988133
+	/// @DnDArgument : "var" "current_refire_wait"
+	/// @DnDArgument : "op" "3"
+	if(current_refire_wait <= 0)
+	{
+		/// @DnDAction : YoYo Games.Common.Execute_Code
+		/// @DnDVersion : 1
+		/// @DnDHash : 674A3F98
+		/// @DnDParent : 4089ACD8
+		/// @DnDArgument : "code" "new_projectile = instance_create_layer(x,y,"Projectiles", current_projectile);$(13_10)with(new_projectile)$(13_10){$(13_10)	direction = other.direction;$(13_10)}$(13_10)current_refire_wait = refire_delay;"
+		new_projectile = instance_create_layer(x,y,"Projectiles", current_projectile);
+		with(new_projectile)
+		{
+			direction = other.direction;
+		}
+		current_refire_wait = refire_delay;
+	}
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4D8BF38A
+/// @DnDArgument : "expr" "-1"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "current_refire_wait"
+current_refire_wait += -1;
