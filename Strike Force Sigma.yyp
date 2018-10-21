@@ -34,7 +34,7 @@
             "Key": "055dc498-c530-4ff1-a843-32fd16d86334",
             "Value": {
                 "id": "d8b32e04-81ec-4bae-a5a7-84a54e6f5a6d",
-                "resourcePath": "objects\\obj_basic_projectile\\obj_basic_projectile.yy",
+                "resourcePath": "objects\\template_basic_projectile\\template_basic_projectile.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -90,7 +90,7 @@
             "Key": "1c0546e3-0586-4244-8d45-da410aa0d96e",
             "Value": {
                 "id": "2d758496-bd04-4f62-8fd3-b2e1341223bb",
-                "resourcePath": "objects\\obj_basic_pathtarget\\obj_basic_pathtarget.yy",
+                "resourcePath": "objects\\template_basic_pathtarget\\template_basic_pathtarget.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -146,7 +146,7 @@
             "Key": "325a75ae-df3b-4a63-8d22-71f2cc3dce9e",
             "Value": {
                 "id": "f424fa3c-b2d2-421e-9ad3-b46e6d50628f",
-                "resourcePath": "objects\\obj_basic_powerup\\obj_basic_powerup.yy",
+                "resourcePath": "objects\\template_basic_powerup\\template_basic_powerup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "4047d414-9f3f-4802-89ec-d1ee6d96206f",
             "Value": {
                 "id": "7ac12ed5-f8bc-4cb5-9db7-7e2ecb908764",
-                "resourcePath": "objects\\obj_basic_enemy_projectile\\obj_basic_enemy_projectile.yy",
+                "resourcePath": "objects\\template_basic_enemy_projectile\\template_basic_enemy_projectile.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "42082e9a-9a35-49e7-bdfb-f37669ecacff",
             "Value": {
                 "id": "7c724b4c-732d-4203-b15e-58ce9470611c",
-                "resourcePath": "objects\\obj_boss_turretholder_segment\\obj_boss_turretholder_segment.yy",
+                "resourcePath": "objects\\template_boss_turretholder_segment\\template_boss_turretholder_segment.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -266,7 +266,7 @@
             "Key": "514e20ce-3b5b-4983-9dc3-c5ac18eb3937",
             "Value": {
                 "id": "7ecd5f3d-f04a-4ce9-90e3-51bc30d16574",
-                "resourcePath": "objects\\obj_basic_target\\obj_basic_target.yy",
+                "resourcePath": "objects\\template_basic_target\\template_basic_target.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -338,7 +338,7 @@
             "Key": "7961bfbd-39fd-47d2-b0b6-f15ab0b52699",
             "Value": {
                 "id": "77d5ecc9-48ad-4848-a9d1-2cb566c473ed",
-                "resourcePath": "objects\\obj_basic_friendly_projectile\\obj_basic_friendly_projectile.yy",
+                "resourcePath": "objects\\template_basic_friendly_projectile\\template_basic_friendly_projectile.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -450,7 +450,7 @@
             "Key": "92b51325-8e53-440a-acca-cc58a45672ae",
             "Value": {
                 "id": "45e9a6b3-5643-4009-8070-ee91ae83dfbc",
-                "resourcePath": "objects\\obj_basic_movetarget\\obj_basic_movetarget.yy",
+                "resourcePath": "objects\\template_basic_movetarget\\template_basic_movetarget.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -610,7 +610,7 @@
             "Key": "dc6c8af3-956b-49bc-b7c4-641265e0a938",
             "Value": {
                 "id": "ed40326b-25c6-4532-90ef-d1720cf9433a",
-                "resourcePath": "objects\\obj_squadron_controller_basic\\obj_squadron_controller_basic.yy",
+                "resourcePath": "objects\\template_squadron_controller_basic\\template_squadron_controller_basic.yy",
                 "resourceType": "GMObject"
             }
         },

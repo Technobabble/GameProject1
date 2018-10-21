@@ -1,28 +1,28 @@
 {
-    "id": "42082e9a-9a35-49e7-bdfb-f37669ecacff",
+    "id": "514e20ce-3b5b-4983-9dc3-c5ac18eb3937",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_boss_turretholder_segment",
+    "name": "template_basic_target",
     "eventList": [
         {
-            "id": "d7fef047-3375-4bea-9c9a-50654d129593",
+            "id": "30a27877-c231-4445-bb61-4e54dc13ef7d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "42082e9a-9a35-49e7-bdfb-f37669ecacff"
+            "eventtype": 2,
+            "m_owner": "514e20ce-3b5b-4983-9dc3-c5ac18eb3937"
         },
         {
-            "id": "96c3784f-30f9-4624-802c-b89b4034bce7",
+            "id": "90e75720-e5ad-40a2-a03a-e4594136d371",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "collisionObjectId": "7961bfbd-39fd-47d2-b0b6-f15ab0b52699",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "42082e9a-9a35-49e7-bdfb-f37669ecacff"
+            "eventtype": 4,
+            "m_owner": "514e20ce-3b5b-4983-9dc3-c5ac18eb3937"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

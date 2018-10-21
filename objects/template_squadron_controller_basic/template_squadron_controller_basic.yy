@@ -2,7 +2,7 @@
     "id": "dc6c8af3-956b-49bc-b7c4-641265e0a938",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_squadron_controller_basic",
+    "name": "template_squadron_controller_basic",
     "eventList": [
         {
             "id": "9758d701-5e8b-437e-b01b-afb6bdd43b5e",
