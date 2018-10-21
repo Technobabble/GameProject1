@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 0269AAC4
-/// @DnDArgument : "code" "$(13_10)new_unit = instance_create_layer(path_get_point_x(target_path,0), path_get_point_y(target_path,0), unit_layer, unit_type);$(13_10)with (new_unit)$(13_10){$(13_10)	transform_parent = other;$(13_10)	image_xscale = 0.3;$(13_10)	image_yscale = 0.3;$(13_10)		$(13_10)	path_start(other.target_path, other.local_pathSpeed, path_action_stop, true);$(13_10)		$(13_10)	other.units_on_path++;$(13_10)}$(13_10)child_units[units_remaining] = new_unit;$(13_10)units_remaining++;$(13_10)show_debug_message("Spawned Unit");"
+/// @DnDArgument : "code" "$(13_10)new_unit = instance_create_layer(path_get_point_x(target_path,0), path_get_point_y(target_path,0), unit_layer, unit_type);$(13_10)with (new_unit)$(13_10){$(13_10)	transform_parent = other;$(13_10)	image_xscale = 0.3;$(13_10)	image_yscale = 0.3;$(13_10)	$(13_10)	local_pathSpeed = other.local_pathSpeed;$(13_10)		$(13_10)	path_start(other.target_path, local_pathSpeed, path_action_stop, true);$(13_10)		$(13_10)	other.units_on_path++;$(13_10)}$(13_10)child_units[units_remaining] = new_unit;$(13_10)units_remaining++;$(13_10)show_debug_message("Spawned Unit");"
 
 new_unit = instance_create_layer(path_get_point_x(target_path,0), path_get_point_y(target_path,0), unit_layer, unit_type);
 with (new_unit)
@@ -9,8 +9,10 @@ with (new_unit)
 	transform_parent = other;
 	image_xscale = 0.3;
 	image_yscale = 0.3;
+	
+	local_pathSpeed = other.local_pathSpeed;
 		
-	path_start(other.target_path, other.local_pathSpeed, path_action_stop, true);
+	path_start(other.target_path, local_pathSpeed, path_action_stop, true);
 		
 	other.units_on_path++;
 }

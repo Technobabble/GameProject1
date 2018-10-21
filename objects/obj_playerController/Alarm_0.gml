@@ -56,6 +56,18 @@ if(__dnd_lives >= 0)
 	x = xstart;
 	y = ystart;
 	}
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 7A76F76B
+	/// @DnDApplyTo : f3f44ec8-2cdf-4096-aae6-036e177db88f
+	/// @DnDParent : 4379197F
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "var" "time_scale"
+	with(obj_roomManager) {
+	time_scale = 1;
+	
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else

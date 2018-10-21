@@ -84,6 +84,18 @@ if(l36AF4014_0)
 		/// @DnDSaveInfo : "objind" "81c1bee2-64a8-4cf8-8f76-9802e07398a5"
 		with(obj_playership) instance_change(obj_blastwave, true);
 	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 0C9B6E4E
+		/// @DnDApplyTo : f3f44ec8-2cdf-4096-aae6-036e177db88f
+		/// @DnDParent : 2387BA5B
+		/// @DnDArgument : "expr" "0.25"
+		/// @DnDArgument : "var" "time_scale"
+		with(obj_roomManager) {
+		time_scale = 0.25;
+		
+		}
+	
 		/// @DnDAction : YoYo Games.Instance Variables.Set_Health
 		/// @DnDVersion : 1
 		/// @DnDHash : 0D5BCFFE

@@ -63,12 +63,6 @@ instance_create_layer(0, 0, "Instances", obj_debug_marker);
 /// @DnDSaveInfo : "objectid" "09a8da97-89b3-4368-9235-8d84807489bb"
 instance_create_layer(0, 0, "Instances", obj_debug_marker2);
 
-/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-/// @DnDVersion : 1
-/// @DnDHash : 4503823D
-/// @DnDArgument : "msg" ""Initial Direction Angle: " +string(direction)"
-show_debug_message(string("Initial Direction Angle: " +string(direction)));
-
 /// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 /// @DnDVersion : 1
 /// @DnDHash : 643FA3C5

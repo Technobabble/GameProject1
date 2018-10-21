@@ -9,8 +9,8 @@ current_step += 1;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 26E1C9F0
-/// @DnDArgument : "code" "current_scale = (current_step/room_speed) * max_scale /scale_time;"
-current_scale = (current_step/room_speed) * max_scale /scale_time;
+/// @DnDArgument : "code" "current_scale = (current_step/room_speed) * max_scale /duration;"
+current_scale = (current_step/room_speed) * max_scale /duration;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1

@@ -11,3 +11,10 @@ local_speed = 0.5;
 /// @DnDArgument : "speed" "local_speed"
 /// @DnDArgument : "type" "1"
 hspeed = local_speed;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 58156D26
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "hdir"
+hdir = 1;

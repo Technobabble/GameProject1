@@ -22,8 +22,8 @@ max_scale = 7;
 /// @DnDVersion : 1
 /// @DnDHash : 3A315D2A
 /// @DnDArgument : "expr" "1.5"
-/// @DnDArgument : "var" "scale_time"
-scale_time = 1.5;
+/// @DnDArgument : "var" "duration"
+duration = 1.5;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
