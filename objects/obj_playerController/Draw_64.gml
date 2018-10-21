@@ -114,6 +114,14 @@ if(l36AF4014_0)
 		image_alpha = ($FFFFFFFF >> 24) / $ff;
 		}
 	
+		/// @DnDAction : YoYo Games.Instances.Sprite_Image_Alpha
+		/// @DnDVersion : 1
+		/// @DnDHash : 7C1B3CE5
+		/// @DnDApplyTo : 81c1bee2-64a8-4cf8-8f76-9802e07398a5
+		/// @DnDParent : 2387BA5B
+		/// @DnDArgument : "alpha" "0.75"
+		with(obj_blastwave) image_alpha = 0.75;
+	
 		/// @DnDAction : YoYo Games.Instances.Set_Alarm
 		/// @DnDVersion : 1
 		/// @DnDHash : 1AC29F0B

@@ -18,8 +18,8 @@ if(l2BD35903_0)
 	/// @DnDParent : 2BD35903
 	/// @DnDArgument : "var" "distance_to_object(obj_playership)"
 	/// @DnDArgument : "op" "3"
-	/// @DnDArgument : "value" "400"
-	if(distance_to_object(obj_playership) <= 400)
+	/// @DnDArgument : "value" "200"
+	if(distance_to_object(obj_playership) <= 200)
 	{
 		/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 		/// @DnDVersion : 1
@@ -33,8 +33,8 @@ if(l2BD35903_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 502A127A
 		/// @DnDParent : 33141E4F
-		/// @DnDArgument : "speed" "1"
-		speed = 1;
+		/// @DnDArgument : "speed" "3"
+		speed = 3;
 	
 		/// @DnDAction : YoYo Games.Movement.Set_Speed
 		/// @DnDVersion : 1
