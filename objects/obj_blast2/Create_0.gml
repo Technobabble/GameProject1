@@ -7,8 +7,8 @@ direction = 90;
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 0A5BB4F9
-/// @DnDArgument : "speed" "20"
-speed = 20;
+/// @DnDArgument : "speed" "13"
+speed = 13;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -20,9 +20,9 @@ vspeed_base = vspeed;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5675F721
-/// @DnDArgument : "expr" "10"
+/// @DnDArgument : "expr" "6"
 /// @DnDArgument : "var" "damage"
-damage = 10;
+damage = 6;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
@@ -35,9 +35,9 @@ image_yscale = 0.25;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 38432F85
-/// @DnDArgument : "expr" "room_speed*0.15"
+/// @DnDArgument : "expr" "room_speed*0.4"
 /// @DnDArgument : "var" "refire_delay"
-refire_delay = room_speed*0.15;
+refire_delay = room_speed*0.4;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -45,3 +45,10 @@ refire_delay = room_speed*0.15;
 /// @DnDArgument : "expr" "13"
 /// @DnDArgument : "var" "fireline_spacing"
 fireline_spacing = 13;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1C30E7E8
+/// @DnDArgument : "expr" ""Spread""
+/// @DnDArgument : "var" "multishot_type"
+multishot_type = "Spread";

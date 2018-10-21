@@ -58,6 +58,15 @@ if(l36AF4014_0)
 		l4CAE7393_1 += l4CAE7393_0;
 	}
 
+	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+	/// @DnDVersion : 1
+	/// @DnDHash : 3DDC014B
+	/// @DnDParent : 36AF4014
+	/// @DnDArgument : "y" "150"
+	/// @DnDArgument : "caption" ""Current burst pos: ""
+	/// @DnDArgument : "text" "obj_playership.current_burst_pos"
+	draw_text_transformed(0, 150, string("Current burst pos: ") + string(obj_playership.current_burst_pos), 1, 1, 0);
+
 	/// @DnDAction : YoYo Games.Instance Variables.If_Health
 	/// @DnDVersion : 1
 	/// @DnDHash : 2387BA5B
