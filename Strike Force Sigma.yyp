@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "16c80317-a9d8-40cd-ab8d-0f14bc312beb",
+            "Value": {
+                "id": "2d495768-7882-482b-b1ce-e7e24f76fc02",
+                "resourcePath": "sprites\\spr_blastwave\\spr_blastwave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c0546e3-0586-4244-8d45-da410aa0d96e",
             "Value": {
                 "id": "2d758496-bd04-4f62-8fd3-b2e1341223bb",
@@ -155,6 +163,14 @@
             "Value": {
                 "id": "088a18fb-9ac1-417c-8f03-7680bae3bd0c",
                 "resourcePath": "objects\\obj_boss_wingL\\obj_boss_wingL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4047d414-9f3f-4802-89ec-d1ee6d96206f",
+            "Value": {
+                "id": "7ac12ed5-f8bc-4cb5-9db7-7e2ecb908764",
+                "resourcePath": "objects\\obj_basic_enemy_projectile\\obj_basic_enemy_projectile.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -295,6 +311,14 @@
             }
         },
         {
+            "Key": "7961bfbd-39fd-47d2-b0b6-f15ab0b52699",
+            "Value": {
+                "id": "77d5ecc9-48ad-4848-a9d1-2cb566c473ed",
+                "resourcePath": "objects\\obj_basic_friendly_projectile\\obj_basic_friendly_projectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7d7164b0-57d7-40c2-b529-366b7c96a792",
             "Value": {
                 "id": "e0ae04d0-8f73-419d-b841-66e22cac7f9d",
@@ -316,6 +340,14 @@
                 "id": "f9c3c063-e19d-441b-b6bb-6d28a60cf633",
                 "resourcePath": "views\\7ed41d8f-f51b-4c69-b746-5760fed1bd6c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "81c1bee2-64a8-4cf8-8f76-9802e07398a5",
+            "Value": {
+                "id": "27668966-0cc6-4e55-8c5a-55ea5bc55770",
+                "resourcePath": "objects\\obj_blastwave\\obj_blastwave.yy",
+                "resourceType": "GMObject"
             }
         },
         {
