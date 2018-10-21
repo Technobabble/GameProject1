@@ -1,18 +1,18 @@
 {
-    "id": "c9c69197-1fe8-4537-b1ee-89932e589c2b",
+    "id": "f1b8da7c-5b11-46d9-95e9-bbde1ae31b28",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_playership_upg1",
     "eventList": [
         {
-            "id": "51e61c38-731c-4793-89c0-ed5c410d8525",
+            "id": "1bba9da5-fab0-40ea-9ec5-6f0dc421e4c5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 32,
             "eventtype": 9,
-            "m_owner": "c9c69197-1fe8-4537-b1ee-89932e589c2b"
+            "m_owner": "f1b8da7c-5b11-46d9-95e9-bbde1ae31b28"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
