@@ -31,3 +31,10 @@ damage = 10;
 /// @DnDArgument : "yscale" "0.25"
 image_xscale = 0.25;
 image_yscale = 0.25;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 38432F85
+/// @DnDArgument : "expr" "room_speed*0.15"
+/// @DnDArgument : "var" "refire_delay"
+refire_delay = room_speed*0.15;

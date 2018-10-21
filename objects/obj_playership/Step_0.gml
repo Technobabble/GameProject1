@@ -186,3 +186,11 @@ else
 	/// @DnDParent : 5944DC09
 	image_alpha = 1;
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2CF6EE9C
+/// @DnDArgument : "expr" "-1"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "current_refire_wait"
+current_refire_wait += -1;
