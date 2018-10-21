@@ -38,3 +38,10 @@ image_yscale = 0.25;
 /// @DnDArgument : "expr" "room_speed*0.15"
 /// @DnDArgument : "var" "refire_delay"
 refire_delay = room_speed*0.15;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2A8EC000
+/// @DnDArgument : "expr" "13"
+/// @DnDArgument : "var" "fireline_spacing"
+fireline_spacing = 13;
