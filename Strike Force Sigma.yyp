@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "55565bd8-643d-4869-8e2b-8ff153a3e9e7",
+            "Value": {
+                "id": "61bc3948-2489-485e-bd1d-ee856eefc66f",
+                "resourcePath": "sounds\\snd_menu_music\\snd_menu_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "68c25617-f199-4f7b-8b43-92c776ca5ecc",
             "Value": {
                 "id": "6aabbfee-9172-428e-a4a6-7b19b421829b",
@@ -316,6 +324,14 @@
                 "id": "77d5ecc9-48ad-4848-a9d1-2cb566c473ed",
                 "resourcePath": "objects\\obj_basic_friendly_projectile\\obj_basic_friendly_projectile.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7cbd5d7f-3067-43f9-ab75-12fb021c25c0",
+            "Value": {
+                "id": "c111468b-cc24-49d3-a270-36bd8bcf8c0c",
+                "resourcePath": "sprites\\spr_allyship_blue\\spr_allyship_blue.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -388,6 +404,14 @@
                 "id": "88d42d16-9ac9-4076-8894-02b64d389e22",
                 "resourcePath": "objects\\obj_enemy_squad_controller1\\obj_enemy_squad_controller1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "929c6c67-92a4-4a13-8858-b4723cc42b28",
+            "Value": {
+                "id": "1771fe86-7cea-4ae1-aafa-61e8892267b7",
+                "resourcePath": "sprites\\spr_allyship_green\\spr_allyship_green.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
