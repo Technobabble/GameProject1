@@ -1,23 +1,23 @@
 {
-    "id": "c9c69197-1fe8-4537-b1ee-89932e589c2b",
+    "id": "17521eec-9cd8-471f-87f3-9f1a4b9142ba",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_playership_upg1",
+    "name": "obj_blast2_left",
     "eventList": [
         {
-            "id": "51e61c38-731c-4793-89c0-ed5c410d8525",
+            "id": "36445116-4aed-4c36-a34b-1a4fd3e8380c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 9,
-            "m_owner": "c9c69197-1fe8-4537-b1ee-89932e589c2b"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "17521eec-9cd8-471f-87f3-9f1a4b9142ba"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "a68b5698-7431-41e2-8980-17f9768a53c1",
+    "parentObjectId": "7961bfbd-39fd-47d2-b0b6-f15ab0b52699",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "85396e60-2375-43da-bf0d-a8d6e2d2eac4",
+    "spriteId": "2445cbd8-7543-4775-9beb-2d414259ea57",
     "visible": true
 }

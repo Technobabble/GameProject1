@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 19290612
+/// @DnDApplyTo : a68b5698-7431-41e2-8980-17f9768a53c1
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "weapon_upgrade"
+with(obj_playership) {
+weapon_upgrade = 1;
+
+}
+
 /// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 3C31C78B
