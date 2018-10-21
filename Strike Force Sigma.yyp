@@ -591,6 +591,22 @@
             }
         },
         {
+            "Key": "bdf6abb4-6dcc-4977-98ae-f0f9562b253a",
+            "Value": {
+                "id": "ab762f99-71ec-4d87-b2ea-0c380389bf36",
+                "resourcePath": "sprites\\spr_powerup_health\\spr_powerup_health.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "beba10f6-fc06-487f-8bf5-0b4bae161cee",
+            "Value": {
+                "id": "9114194c-c01f-44ad-9ced-a42d56df6539",
+                "resourcePath": "sprites\\spr_powerup_life\\spr_powerup_life.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bffccb37-02fe-4119-8937-28236c3753c4",
             "Value": {
                 "id": "6f896f77-85c1-46d7-aac7-64694069fe8d",
