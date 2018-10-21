@@ -36,3 +36,10 @@ max_health = 30;
 /// @DnDArgument : "health" "max_health"
 
 __dnd_health = real(max_health);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0AB23850
+/// @DnDArgument : "expr" "1.5"
+/// @DnDArgument : "var" "player_respawn_time"
+player_respawn_time = 1.5;
