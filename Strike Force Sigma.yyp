@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1a657729-dc57-499f-b8be-03e132792a4d",
+            "Value": {
+                "id": "95bd6c5a-1dd0-42c7-be7c-225da455f3ad",
+                "resourcePath": "sprites\\spr_blast3\\spr_blast3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c0546e3-0586-4244-8d45-da410aa0d96e",
             "Value": {
                 "id": "2d758496-bd04-4f62-8fd3-b2e1341223bb",
@@ -292,6 +300,14 @@
                 "id": "6aabbfee-9172-428e-a4a6-7b19b421829b",
                 "resourcePath": "sprites\\spr_bomb_drone\\spr_bomb_drone.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b4097ea-9673-49be-a233-c7268f84dc94",
+            "Value": {
+                "id": "e51e4069-48a8-4f93-a04f-ab0e2b8f7e7d",
+                "resourcePath": "objects\\obj_multishot_powerup\\obj_multishot_powerup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -511,6 +527,14 @@
             }
         },
         {
+            "Key": "b37ec2b4-fd1c-4b21-8786-8cd3765903f7",
+            "Value": {
+                "id": "05ac2b88-da0f-47e3-974b-ae440eff8070",
+                "resourcePath": "objects\\obj_blast3\\obj_blast3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ba3094c2-6f8c-48f1-9e9d-04f69cb26dc0",
             "Value": {
                 "id": "c11b2cf0-42a0-496c-bd37-61180a34d690",
@@ -527,11 +551,27 @@
             }
         },
         {
+            "Key": "c4561758-52ee-47a3-8af0-a130bced8c1e",
+            "Value": {
+                "id": "bb12d519-1867-4951-bfd0-8bfa2df70e13",
+                "resourcePath": "objects\\obj_projectile_upgrade_powerup\\obj_projectile_upgrade_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c54ca377-426e-4a11-8495-c296bab57c7d",
             "Value": {
                 "id": "3bd2dbed-0d47-4425-a739-c1948a0850ac",
                 "resourcePath": "views\\c54ca377-426e-4a11-8495-c296bab57c7d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5c200af-583b-4924-9135-1b177115d4fb",
+            "Value": {
+                "id": "23d0304c-6f56-49db-b808-c01f9fbd7138",
+                "resourcePath": "sprites\\spr_powerup_weapon11\\spr_powerup_weapon11.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -679,11 +719,27 @@
             }
         },
         {
+            "Key": "f43c1ebc-405c-4019-bcbc-e35186f985d1",
+            "Value": {
+                "id": "8630b6e0-25a2-4868-a6a4-a11987cabb72",
+                "resourcePath": "sprites\\spr_powerup_upgrade_projectile\\spr_powerup_upgrade_projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fa218969-b3b0-4a57-8641-a9245ab419eb",
             "Value": {
                 "id": "c27c30f7-57de-4332-906d-9db59fc0e8c8",
                 "resourcePath": "views\\fa218969-b3b0-4a57-8641-a9245ab419eb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fc11012e-c1c0-4601-b75d-910bc5c855f4",
+            "Value": {
+                "id": "db203736-7d5a-46a6-aff0-fda8eb7c0f68",
+                "resourcePath": "sprites\\spr_powerup_multishot\\spr_powerup_multishot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
