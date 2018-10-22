@@ -1882,6 +1882,25 @@
             }
         },
         {
+            "Key": "dc80b3b9-f365-4e2b-aed1-c0cd88082f4c",
+            "Value": {
+                "id": "4a33f31f-398e-48f4-9248-c30edc4d8054",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_player_victory\/snd_player_victory.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "de35636f-22de-4bef-9cc1-278722cf1bde",
             "Value": {
                 "id": "dca3272d-a1b2-439d-8b01-b48aaed048c2",
