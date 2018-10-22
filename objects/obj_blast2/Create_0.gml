@@ -27,10 +27,10 @@ damage = 6;
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
 /// @DnDHash : 4138798A
-/// @DnDArgument : "xscale" "0.25"
-/// @DnDArgument : "yscale" "0.25"
-image_xscale = 0.25;
-image_yscale = 0.25;
+/// @DnDArgument : "xscale" "0.4"
+/// @DnDArgument : "yscale" "0.4"
+image_xscale = 0.4;
+image_yscale = 0.4;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

@@ -17,3 +17,8 @@ score_value = 1;
 /// @DnDHash : 020A7D3A
 /// @DnDArgument : "var" "local_vspeed"
 local_vspeed = 0;
+
+/// @DnDAction : YoYo Games.Instances.Inherit_Event
+/// @DnDVersion : 1
+/// @DnDHash : 0BD72840
+event_inherited();
