@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "16c8a12c-96e6-4167-a455-c160dabc66f3",
+            "Value": {
+                "id": "897f90fb-53ab-46a5-bf1f-258f0daff937",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_boss_arrival\/snd_boss_arrival.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "17521eec-9cd8-471f-87f3-9f1a4b9142ba",
             "Value": {
                 "id": "334d0b17-639d-4706-b565-7a19570d27eb",
@@ -514,6 +533,25 @@
             }
         },
         {
+            "Key": "405fb8e6-7507-416c-9f37-51f13a2708fe",
+            "Value": {
+                "id": "122a8758-d634-4a7a-a35f-e9a1658e3f4e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_laser_bullet\/snd_laser_bullet.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "409435aa-b11e-49ea-a379-078c45caa44e",
             "Value": {
                 "id": "17407362-9cda-4699-8d6f-4925469797ae",
@@ -780,6 +818,25 @@
             }
         },
         {
+            "Key": "618051d6-3131-4709-9032-41ee1a0152e1",
+            "Value": {
+                "id": "7638cf90-253f-4b74-ba5f-f7e6d1fbbde5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_boss_explosion\/snd_boss_explosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "68c25617-f199-4f7b-8b43-92c776ca5ecc",
             "Value": {
                 "id": "6aabbfee-9172-428e-a4a6-7b19b421829b",
@@ -834,6 +891,25 @@
                 ],
                 "resourcePath": "views\/6d884e5b-6045-41fd-9669-fc735716c930.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6dce9673-4527-4e58-b121-5e84317cfad3",
+            "Value": {
+                "id": "de7dd70e-56ab-4a9e-a849-5dba483ae593",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_game_loss_sound\/snd_game_loss_sound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1388,6 +1464,25 @@
             }
         },
         {
+            "Key": "a7018344-ca9c-4204-bc70-b410882e2710",
+            "Value": {
+                "id": "98b94dcb-d18b-4978-b11c-ff591de3b352",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_laser_bullet_2\/snd_laser_bullet_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a7febbc7-e2a0-4985-a6d5-8f888a0a88fb",
             "Value": {
                 "id": "c2ed04af-ec15-4164-a454-49b9e3548be8",
@@ -1822,6 +1917,25 @@
                 ],
                 "resourcePath": "objects\/obj_boss_wingR\/obj_boss_wingR.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6665349-6338-4945-8d56-91724d467003",
+            "Value": {
+                "id": "a4a7e0c7-6d33-46bf-990d-cab3d9fc3b15",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_boss_machine_gun\/snd_boss_machine_gun.yy",
+                "resourceType": "GMSound"
             }
         },
         {
