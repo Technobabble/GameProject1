@@ -20,9 +20,9 @@ vspeed_base = vspeed;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5675F721
-/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr" "3"
 /// @DnDArgument : "var" "damage"
-damage = 1;
+damage = 3;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
@@ -35,16 +35,16 @@ image_yscale = 0.25;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1C7926BC
-/// @DnDArgument : "expr" "room_speed*0.3"
+/// @DnDArgument : "expr" "room_speed*0.2"
 /// @DnDArgument : "var" "refire_delay"
-refire_delay = room_speed*0.3;
+refire_delay = room_speed*0.2;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 304E746C
-/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "expr" "3"
 /// @DnDArgument : "var" "fireline_spacing"
-fireline_spacing = 5;
+fireline_spacing = 3;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

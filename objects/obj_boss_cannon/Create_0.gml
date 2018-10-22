@@ -23,9 +23,9 @@ score_value = 10;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 26D21062
-/// @DnDArgument : "expr" "room_speed * 4"
+/// @DnDArgument : "expr" "room_speed * 3"
 /// @DnDArgument : "var" "refire_delay"
-refire_delay = room_speed * 4;
+refire_delay = room_speed * 3;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

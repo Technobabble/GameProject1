@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "20804c45-8ca4-4c68-84e0-cf56b7433601",
+            "Value": {
+                "id": "445c6b67-7ed5-4402-8f35-a0cfa4e0da76",
+                "resourcePath": "paths\\path2\\path2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "22f181e5-0d3f-4b0a-a1c4-ad49f265771f",
             "Value": {
                 "id": "5249dc48-6d17-4c13-826a-6f293822434f",
@@ -364,6 +372,14 @@
                 "id": "27d9b663-ea72-4ca6-bd10-06b091192439",
                 "resourcePath": "views\\6d884e5b-6045-41fd-9669-fc735716c930.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f09a8dc-8a3b-4235-b40a-60b2837192f7",
+            "Value": {
+                "id": "873a0c2a-1536-46af-9e9c-7b0f2ba959ed",
+                "resourcePath": "objects\\obj_allied_striker\\obj_allied_striker.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -20,17 +20,17 @@ vspeed_base = vspeed;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5675F721
-/// @DnDArgument : "expr" "6"
+/// @DnDArgument : "expr" "8"
 /// @DnDArgument : "var" "damage"
-damage = 6;
+damage = 8;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
 /// @DnDHash : 4138798A
-/// @DnDArgument : "xscale" "0.4"
-/// @DnDArgument : "yscale" "0.4"
-image_xscale = 0.4;
-image_yscale = 0.4;
+/// @DnDArgument : "xscale" "0.5"
+/// @DnDArgument : "yscale" "0.5"
+image_xscale = 0.5;
+image_yscale = 0.5;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

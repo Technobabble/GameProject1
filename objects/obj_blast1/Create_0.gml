@@ -20,9 +20,9 @@ vspeed_base = vspeed;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5675F721
-/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr" "5"
 /// @DnDArgument : "var" "damage"
-damage = 4;
+damage = 5;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
