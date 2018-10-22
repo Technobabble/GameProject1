@@ -403,7 +403,18 @@
             "Key": "333f52f4-d796-44d0-ae31-73e3aeb00cc6",
             "Value": {
                 "id": "9a03d649-e061-4804-aff8-7c60e532ec29",
-                "resourcePath": "objects\\obj_enemy_squad_controller2\\obj_enemy_squad_controller2.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_enemy_squad_controller2\/obj_enemy_squad_controller2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -430,7 +441,18 @@
             "Key": "3a01500c-0e09-48ff-9aa8-1aa799d40253",
             "Value": {
                 "id": "d8f8b5a7-9ca4-4c79-a968-f7b1fa8607ed",
-                "resourcePath": "paths\\path1\\path1.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "paths\/path1\/path1.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -1741,7 +1763,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/sound3\/sound3.yy",
+                "resourcePath": "sounds\/snd_gameplay_theme\/snd_gameplay_theme.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -1825,7 +1847,18 @@
             "Key": "e75e8d62-cc45-4657-9137-d8d6260fc4a4",
             "Value": {
                 "id": "3d65c554-7b2a-4b14-a895-392a2c4f2a7a",
-                "resourcePath": "objects\\obj_game_manager\\obj_game_manager.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_game_manager\/obj_game_manager.yy",
                 "resourceType": "GMObject"
             }
         },
