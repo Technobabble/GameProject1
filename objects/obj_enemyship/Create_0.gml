@@ -33,3 +33,8 @@ local_vspeed = 2;
 /// @DnDArgument : "yscale" "0.3"
 image_xscale = 0.3;
 image_yscale = 0.3;
+
+/// @DnDAction : YoYo Games.Instances.Inherit_Event
+/// @DnDVersion : 1
+/// @DnDHash : 15DB44D5
+event_inherited();

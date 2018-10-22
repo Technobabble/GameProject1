@@ -7,8 +7,8 @@ direction = 90;
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 0A5BB4F9
-/// @DnDArgument : "speed" "15"
-speed = 15;
+/// @DnDArgument : "speed" "17"
+speed = 17;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -27,10 +27,10 @@ damage = 4;
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
 /// @DnDHash : 4138798A
-/// @DnDArgument : "xscale" "0.25"
-/// @DnDArgument : "yscale" "0.25"
-image_xscale = 0.25;
-image_yscale = 0.25;
+/// @DnDArgument : "xscale" "0.4"
+/// @DnDArgument : "yscale" "0.4"
+image_xscale = 0.4;
+image_yscale = 0.4;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
