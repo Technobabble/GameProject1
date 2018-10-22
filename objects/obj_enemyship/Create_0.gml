@@ -25,3 +25,11 @@ alarm_set(1, room_speed * 5);
 /// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "local_vspeed"
 local_vspeed = 2;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+/// @DnDVersion : 1
+/// @DnDHash : 36C8C67D
+/// @DnDArgument : "xscale" "0.3"
+/// @DnDArgument : "yscale" "0.3"
+image_xscale = 0.3;
+image_yscale = 0.3;

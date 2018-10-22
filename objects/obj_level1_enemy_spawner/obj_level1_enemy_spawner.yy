@@ -1,38 +1,18 @@
 {
-    "id": "f3f44ec8-2cdf-4096-aae6-036e177db88f",
+    "id": "47d2a2fa-576f-4091-8a94-237c45290e36",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_roomManager",
+    "name": "obj_level1_enemy_spawner",
     "eventList": [
         {
-            "id": "9c9bcb49-45e1-4d27-b4c6-adf8ea035ffb",
+            "id": "2e978b00-9d93-47b1-827f-226bc50666cc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "f3f44ec8-2cdf-4096-aae6-036e177db88f"
-        },
-        {
-            "id": "dcb48ea7-d35c-4b18-98f4-9ac575abc604",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "f3f44ec8-2cdf-4096-aae6-036e177db88f"
-        },
-        {
-            "id": "ff07801d-645b-413c-ba41-b8b084442544",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 107,
-            "eventtype": 9,
-            "m_owner": "f3f44ec8-2cdf-4096-aae6-036e177db88f"
+            "m_owner": "47d2a2fa-576f-4091-8a94-237c45290e36"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

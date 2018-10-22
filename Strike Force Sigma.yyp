@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "47d2a2fa-576f-4091-8a94-237c45290e36",
+            "Value": {
+                "id": "012a35ad-dd33-4bce-bfb6-a31d822911d6",
+                "resourcePath": "objects\\obj_level1_enemy_spawner\\obj_level1_enemy_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "47d4b654-0f8f-4930-8730-b5c2ab0598c1",
             "Value": {
                 "id": "9d3110e6-25f3-4edd-99bd-4f42369c683d",
@@ -487,6 +495,14 @@
             }
         },
         {
+            "Key": "8e7de57d-8b39-4568-84ef-14b9e07ac631",
+            "Value": {
+                "id": "f16ab7a3-1e54-494d-8ceb-5240176a042f",
+                "resourcePath": "rooms\\stage1_1\\stage1_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "909e1118-65f2-4967-a87d-9943bfcaf0d7",
             "Value": {
                 "id": "327671ea-4ed4-4fdd-9029-a68132392d41",
@@ -524,6 +540,14 @@
                 "id": "26e9ae92-64a6-46cb-92ef-5ed4ccfe9d83",
                 "resourcePath": "objects\\obj_squadron_enemyship\\obj_squadron_enemyship.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "998d78da-78f5-440e-bc6d-5df204741c2e",
+            "Value": {
+                "id": "e91a9f55-22b7-4b2b-a2c0-ce0b39a08ecd",
+                "resourcePath": "scripts\\spawn_many_random\\spawn_many_random.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -824,7 +848,7 @@
         }
     ],
     "script_order": [
-        
+        "998d78da-78f5-440e-bc6d-5df204741c2e"
     ],
     "tutorial": ""
 }
