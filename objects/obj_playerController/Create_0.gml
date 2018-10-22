@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 222F4BA1
-/// @DnDArgument : "code" "//	Character Movement States$(13_10)enum Movement $(13_10){$(13_10)	up,$(13_10)	diagUpLeft,$(13_10)	diagUpRight,$(13_10)	down,$(13_10)	diagDownLeft,$(13_10)	diagDownRight,$(13_10)	left,$(13_10)	right,$(13_10)	idle$(13_10)}$(13_10)"
+/// @DnDArgument : "code" "//	Character Movement States$(13_10)enum Movement $(13_10){$(13_10)	up,$(13_10)	diagUpLeft,$(13_10)	diagUpRight,$(13_10)	down,$(13_10)	diagDownLeft,$(13_10)	diagDownRight,$(13_10)	left,$(13_10)	right,$(13_10)	idle$(13_10)}$(13_10)$(13_10)num_strikers =2;$(13_10)current_strikers = 2;$(13_10)striker_cooldown[0] = 30*room_speed;$(13_10)striker_cooldown[1] = 45*room_speed;$(13_10)current_striker_cooldown[0] = 5*room_speed;$(13_10)current_striker_cooldown[1] = 15*room_speed;"
 //	Character Movement States
 enum Movement 
 {
@@ -15,6 +15,13 @@ enum Movement
 	right,
 	idle
 }
+
+num_strikers =2;
+current_strikers = 2;
+striker_cooldown[0] = 30*room_speed;
+striker_cooldown[1] = 45*room_speed;
+current_striker_cooldown[0] = 5*room_speed;
+current_striker_cooldown[1] = 15*room_speed;
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1

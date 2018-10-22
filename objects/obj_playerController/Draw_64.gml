@@ -64,15 +64,6 @@ if(l36AF4014_0)
 		l4CAE7393_1 += l4CAE7393_0;
 	}
 
-	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
-	/// @DnDVersion : 1
-	/// @DnDHash : 3DDC014B
-	/// @DnDParent : 36AF4014
-	/// @DnDArgument : "y" "150"
-	/// @DnDArgument : "caption" ""Current burst pos: ""
-	/// @DnDArgument : "text" "obj_playership.current_burst_pos"
-	draw_text_transformed(0, 150, string("Current burst pos: ") + string(obj_playership.current_burst_pos), 1, 1, 0);
-
 	/// @DnDAction : YoYo Games.Instance Variables.If_Health
 	/// @DnDVersion : 1
 	/// @DnDHash : 2387BA5B
@@ -143,5 +134,43 @@ if(l36AF4014_0)
 		/// @DnDParent : 2387BA5B
 		/// @DnDArgument : "steps" "room_speed*player_respawn_time"
 		alarm_set(0, room_speed*player_respawn_time);
+	}
+
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 5CC04CE6
+	/// @DnDParent : 36AF4014
+	/// @DnDArgument : "var" "current_strikers"
+	/// @DnDArgument : "op" "4"
+	/// @DnDArgument : "value" "1"
+	if(current_strikers >= 1)
+	{
+		/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+		/// @DnDVersion : 1
+		/// @DnDHash : 7DC19D05
+		/// @DnDParent : 5CC04CE6
+		/// @DnDArgument : "y" "120"
+		/// @DnDArgument : "caption" ""Striker 1 Ready in: ""
+		/// @DnDArgument : "text" "clamp(current_striker_cooldown[0]/room_speed,0,1000)"
+		draw_text_transformed(0, 120, string("Striker 1 Ready in: ") + string(clamp(current_striker_cooldown[0]/room_speed,0,1000)), 1, 1, 0);
+	}
+
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 47DA2798
+	/// @DnDParent : 36AF4014
+	/// @DnDArgument : "var" "current_strikers"
+	/// @DnDArgument : "op" "4"
+	/// @DnDArgument : "value" "2"
+	if(current_strikers >= 2)
+	{
+		/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+		/// @DnDVersion : 1
+		/// @DnDHash : 72DCA966
+		/// @DnDParent : 47DA2798
+		/// @DnDArgument : "y" "140"
+		/// @DnDArgument : "caption" ""Striker 2 Ready in: ""
+		/// @DnDArgument : "text" "clamp(current_striker_cooldown[1]/room_speed,0,1000)"
+		draw_text_transformed(0, 140, string("Striker 2 Ready in: ") + string(clamp(current_striker_cooldown[1]/room_speed,0,1000)), 1, 1, 0);
 	}
 }

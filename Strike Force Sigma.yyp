@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "310558d6-cb1e-49ab-a5c9-ea4b8a63fcee",
+            "Value": {
+                "id": "fc49a151-6fce-4aa5-886b-e58db50d83ba",
+                "resourcePath": "objects\\obj_allied_striker2\\obj_allied_striker2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "325a75ae-df3b-4a63-8d22-71f2cc3dce9e",
             "Value": {
                 "id": "f424fa3c-b2d2-421e-9ad3-b46e6d50628f",
@@ -351,6 +359,14 @@
             }
         },
         {
+            "Key": "62316956-0d2b-4427-a3f0-90e2be630591",
+            "Value": {
+                "id": "d0718d40-89b7-4188-8617-b13bf3f8b4c0",
+                "resourcePath": "objects\\template_basic_beam_weapon\\template_basic_beam_weapon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68c25617-f199-4f7b-8b43-92c776ca5ecc",
             "Value": {
                 "id": "6aabbfee-9172-428e-a4a6-7b19b421829b",
@@ -363,6 +379,14 @@
             "Value": {
                 "id": "e51e4069-48a8-4f93-a04f-ab0e2b8f7e7d",
                 "resourcePath": "objects\\obj_multishot_powerup\\obj_multishot_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c83278f-2977-4548-94a4-6882925ac722",
+            "Value": {
+                "id": "eba803f3-0039-4d79-8cfb-2f21929c6965",
+                "resourcePath": "objects\\obj_striker_laser\\obj_striker_laser.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -763,6 +787,14 @@
             "Value": {
                 "id": "e8e4e35c-2cce-48d0-aa85-8ee8292b85ad",
                 "resourcePath": "sprites\\spr_squadron_enemyship\\spr_squadron_enemyship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8749edf-3f0f-4f75-929e-253979d24a04",
+            "Value": {
+                "id": "e33fb387-dfce-4428-b8f2-6a848c4903bb",
+                "resourcePath": "sprites\\spr_striker_laser\\spr_striker_laser.yy",
                 "resourceType": "GMSprite"
             }
         },
