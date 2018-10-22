@@ -183,6 +183,22 @@
             }
         },
         {
+            "Key": "3267c74b-98c6-4473-955d-52f74b1fd99d",
+            "Value": {
+                "id": "7d2679e8-a0d1-475a-a4c6-e657d541e691",
+                "resourcePath": "sprites\\spr_corrupted_boss_right_damaged\\spr_corrupted_boss_right_damaged.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "36c59750-fdcf-4f5e-b3a1-0900f8b8b486",
+            "Value": {
+                "id": "e66b3b67-7ba9-4397-baa3-e7c90f737d0e",
+                "resourcePath": "sprites\\spr_corrupted_boss_right\\spr_corrupted_boss_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3768c9f6-29eb-4a94-9ee0-00ddd3c5af1c",
             "Value": {
                 "id": "cff99277-a129-40bd-8795-d77625d24f71",
@@ -399,6 +415,14 @@
             }
         },
         {
+            "Key": "7a2b7842-19ac-443c-a4e2-696e6fe7c401",
+            "Value": {
+                "id": "c157d9c8-8b24-40bb-832d-bc45dc1314d2",
+                "resourcePath": "sprites\\spr_animated_asteroid\\spr_animated_asteroid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7cbd5d7f-3067-43f9-ab75-12fb021c25c0",
             "Value": {
                 "id": "c111468b-cc24-49d3-a270-36bd8bcf8c0c",
@@ -503,6 +527,14 @@
             }
         },
         {
+            "Key": "8f67074b-636c-4faa-9afd-b553ff16d7ed",
+            "Value": {
+                "id": "743df9df-a6bc-4d88-83c3-836aa34df9f3",
+                "resourcePath": "sprites\\spr_corrupted_boss\\spr_corrupted_boss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "909e1118-65f2-4967-a87d-9943bfcaf0d7",
             "Value": {
                 "id": "327671ea-4ed4-4fdd-9029-a68132392d41",
@@ -604,6 +636,14 @@
                 "id": "05ac2b88-da0f-47e3-974b-ae440eff8070",
                 "resourcePath": "objects\\obj_blast3\\obj_blast3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b91e5c8c-825b-47f3-9e15-fb1613435443",
+            "Value": {
+                "id": "d582cb20-3418-41e0-8db7-1104f5ee56b6",
+                "resourcePath": "sprites\\spr_corrupted_boss_left_damaged\\spr_corrupted_boss_left_damaged.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -724,6 +764,14 @@
                 "id": "ead7c9e1-c272-497a-8ca2-60e20fb87fd7",
                 "resourcePath": "views\\d46c9904-3194-4d2a-b02f-a61fbdd586c0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d66175a3-7bad-408d-99ca-ed811f44df9f",
+            "Value": {
+                "id": "e6ee6fcd-cfae-4adb-8488-b5c87c2acf46",
+                "resourcePath": "sprites\\spr_corrupted_boss_left\\spr_corrupted_boss_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
