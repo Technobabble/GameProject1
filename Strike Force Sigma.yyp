@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "33cf60c8-9756-412c-b5b2-25f184bbb4ba",
+            "Value": {
+                "id": "75f22013-7840-4320-bac7-7f12ca969ca1",
+                "resourcePath": "objects\\obj_boss2_wingL\\obj_boss2_wingL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "36c59750-fdcf-4f5e-b3a1-0900f8b8b486",
             "Value": {
                 "id": "add3c94f-1886-4de3-80d0-a5439c34078c",
@@ -703,6 +711,14 @@
             }
         },
         {
+            "Key": "ac45ebcb-7577-4cee-be18-0cdfe06dd3f6",
+            "Value": {
+                "id": "5f69e781-5ebd-4d5c-b8fe-8b7352b58303",
+                "resourcePath": "objects\\obj_boss2_core\\obj_boss2_core.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b37ec2b4-fd1c-4b21-8786-8cd3765903f7",
             "Value": {
                 "id": "05ac2b88-da0f-47e3-974b-ae440eff8070",
@@ -740,6 +756,14 @@
                 "id": "6f896f77-85c1-46d7-aac7-64694069fe8d",
                 "resourcePath": "sprites\\spr_powerup_weapon\\spr_powerup_weapon.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c28862c3-f6fb-481e-9015-7ccddf927e13",
+            "Value": {
+                "id": "b5d56571-9a33-4aad-967c-96e1f87ab630",
+                "resourcePath": "objects\\obj_boss2_wingR\\obj_boss2_wingR.yy",
+                "resourceType": "GMObject"
             }
         },
         {
