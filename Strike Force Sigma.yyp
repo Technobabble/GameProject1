@@ -255,19 +255,11 @@
             }
         },
         {
-<<<<<<< HEAD
             "Key": "3c6df9d4-47c6-4e03-b26d-cfa055ab0f79",
             "Value": {
                 "id": "f2aa8a01-e3a1-4e61-89fb-a654680f1c57",
                 "resourcePath": "objects\\obj_boss2_core_turrets\\obj_boss2_core_turrets.yy",
                 "resourceType": "GMObject"
-=======
-            "Key": "3a55b627-e8c2-48ab-9425-c09e1b144a2d",
-            "Value": {
-                "id": "8d7191f1-4af2-40e2-9fa3-1a097af62330",
-                "resourcePath": "sprites\\spr_corrupted_boss_destroyed_left\\spr_corrupted_boss_destroyed_left.yy",
-                "resourceType": "GMSprite"
->>>>>>> fb77326418215f0a9a689248b05ad9216c8d859b
             }
         },
         {
@@ -802,7 +794,7 @@
             "Key": "b8d92535-b1ee-4b3a-a5ca-39d389282d3c",
             "Value": {
                 "id": "388a5f05-3899-4f0a-8e23-f75f8bd2ca5b",
-                "resourcePath": "sprites\\spr_explosion_animation\\spr_explosion_animation.yy",
+                "resourcePath": "sprites\\sprite45\\sprite45.yy",
                 "resourceType": "GMSprite"
             }
         },
