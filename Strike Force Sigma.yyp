@@ -239,11 +239,27 @@
             }
         },
         {
+            "Key": "3983137e-8430-4dd4-92b9-86559b6fcc29",
+            "Value": {
+                "id": "2d528478-40e3-49e6-b58b-f30e85c9c788",
+                "resourcePath": "objects\\template_fixed_boss_turret\\template_fixed_boss_turret.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a01500c-0e09-48ff-9aa8-1aa799d40253",
             "Value": {
                 "id": "d8f8b5a7-9ca4-4c79-a968-f7b1fa8607ed",
                 "resourcePath": "paths\\path1\\path1.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "3c6df9d4-47c6-4e03-b26d-cfa055ab0f79",
+            "Value": {
+                "id": "f2aa8a01-e3a1-4e61-89fb-a654680f1c57",
+                "resourcePath": "objects\\obj_boss2_core_turrets\\obj_boss2_core_turrets.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -479,6 +495,14 @@
             }
         },
         {
+            "Key": "710635fb-cfc4-4af1-8ab1-13e73516adf3",
+            "Value": {
+                "id": "30726558-eba8-4a6c-8a1e-0213e9a40852",
+                "resourcePath": "sprites\\spr_boss2_turret2R\\spr_boss2_turret2R.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73fa3d4f-7c10-445b-80ac-2eaa32693b83",
             "Value": {
                 "id": "ca8fb329-d0cb-4c2e-b037-543fdacb7cd7",
@@ -647,6 +671,14 @@
             }
         },
         {
+            "Key": "91f3f43f-a836-430c-88eb-27471e21eb01",
+            "Value": {
+                "id": "1b0da5a0-da52-4273-a6ac-51b5b0eae410",
+                "resourcePath": "sprites\\spr_boss2_turret1R\\spr_boss2_turret1R.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "929c6c67-92a4-4a13-8858-b4723cc42b28",
             "Value": {
                 "id": "1771fe86-7cea-4ae1-aafa-61e8892267b7",
@@ -683,6 +715,14 @@
             "Value": {
                 "id": "44133430-89fd-4daf-b86b-92c52328008d",
                 "resourcePath": "objects\\obj_bomb_drone\\obj_bomb_drone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9c4e5d5a-9128-4c70-8d43-652f8b4b446d",
+            "Value": {
+                "id": "0685bbc9-52b7-45b4-a030-8f425c19b47a",
+                "resourcePath": "objects\\obj_boss2_turret2R\\obj_boss2_turret2R.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -731,6 +771,14 @@
             "Value": {
                 "id": "5f69e781-5ebd-4d5c-b8fe-8b7352b58303",
                 "resourcePath": "objects\\obj_boss2_core\\obj_boss2_core.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aea9bda1-e3e5-4239-9b4b-1ef4396aac24",
+            "Value": {
+                "id": "288c76b4-9086-4ff6-8995-5851dec3df82",
+                "resourcePath": "objects\\obj_boss2_turret2L\\obj_boss2_turret2L.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -927,6 +975,14 @@
             }
         },
         {
+            "Key": "daddc092-785e-4362-8249-7eed255de389",
+            "Value": {
+                "id": "e72e5c13-d88c-44cb-a328-7f7e032b307e",
+                "resourcePath": "objects\\obj_boss2_turret1R\\obj_boss2_turret1R.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dc6c8af3-956b-49bc-b7c4-641265e0a938",
             "Value": {
                 "id": "ed40326b-25c6-4532-90ef-d1720cf9433a",
@@ -940,6 +996,14 @@
                 "id": "dca3272d-a1b2-439d-8b01-b48aaed048c2",
                 "resourcePath": "sprites\\spr_debug_marker\\spr_debug_marker.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1445b52-ca65-47e9-9a57-733750300999",
+            "Value": {
+                "id": "3367a833-fabb-4240-ab5f-c539c2630ebd",
+                "resourcePath": "objects\\obj_boss2_turret1L\\obj_boss2_turret1L.yy",
+                "resourceType": "GMObject"
             }
         },
         {

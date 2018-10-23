@@ -1,20 +1,20 @@
 /// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1
 /// @DnDHash : 0F6190F3
-/// @DnDArgument : "obj" "obj_boss_core"
-/// @DnDSaveInfo : "obj" "a4332918-8045-4b66-88a1-f73c4f98249d"
+/// @DnDArgument : "obj" "template_boss_core_base"
+/// @DnDSaveInfo : "obj" "c9ae24a4-ae96-4a5b-8391-4b11b4e89ce9"
 var l0F6190F3_0 = false;
-l0F6190F3_0 = instance_exists(obj_boss_core);
+l0F6190F3_0 = instance_exists(template_boss_core_base);
 if(l0F6190F3_0)
 {
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 	/// @DnDVersion : 1
 	/// @DnDHash : 495A86DF
 	/// @DnDParent : 0F6190F3
-	/// @DnDArgument : "x" "obj_boss_core.x+segment_xOffset"
-	/// @DnDArgument : "y" "obj_boss_core.y+segment_yOffset"
-	x = obj_boss_core.x+segment_xOffset;
-	y = obj_boss_core.y+segment_yOffset;
+	/// @DnDArgument : "x" "template_boss_core_base.x+segment_xOffset"
+	/// @DnDArgument : "y" "template_boss_core_base.y+segment_yOffset"
+	x = template_boss_core_base.x+segment_xOffset;
+	y = template_boss_core_base.y+segment_yOffset;
 }
 
 /// @DnDAction : YoYo Games.Common.Else

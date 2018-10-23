@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0C0D45AE
+/// @DnDArgument : "expr" "pointer_null"
+/// @DnDArgument : "var" "transform_parent"
+transform_parent = pointer_null;
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 18238EF4

@@ -34,3 +34,11 @@ instance_create_layer(0, 0, "Bosses", obj_boss2_wingL);
 /// @DnDArgument : "layer" ""Bosses""
 /// @DnDSaveInfo : "objectid" "c28862c3-f6fb-481e-9015-7ccddf927e13"
 instance_create_layer(0, 0, "Bosses", obj_boss2_wingR);
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 05F09651
+/// @DnDArgument : "objectid" "obj_boss2_core_turrets"
+/// @DnDArgument : "layer" ""Bosses""
+/// @DnDSaveInfo : "objectid" "3c6df9d4-47c6-4e03-b26d-cfa055ab0f79"
+instance_create_layer(0, 0, "Bosses", obj_boss2_core_turrets);
