@@ -26,3 +26,15 @@ instance_create_layer(x + -50, y + 40, "Instances", obj_explosion_effect);
 /// @DnDArgument : "steps" "room_speed*4"
 /// @DnDArgument : "alarm" "1"
 alarm_set(1, room_speed*4);
+
+/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDVersion : 1
+/// @DnDHash : 37FEE438
+room_goto_next();
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 47A9DA9A
+/// @DnDArgument : "expr" "obj_playerController.player_score"
+/// @DnDArgument : "var" "obj_game_manager.player_score"
+obj_game_manager.player_score = obj_playerController.player_score;

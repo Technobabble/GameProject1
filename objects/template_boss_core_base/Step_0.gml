@@ -18,6 +18,14 @@ if(segments_remaining <= 0)
 		/// @DnDHash : 42E093C2
 		/// @DnDParent : 758C76C7
 		event_user(0);
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 5C2B9548
+		/// @DnDParent : 758C76C7
+		/// @DnDArgument : "expr" "true"
+		/// @DnDArgument : "var" "destroyed"
+		destroyed = true;
 	}
 }
 
