@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 04EB781B
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "destroyed"
+destroyed = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 5332215B
 /// @DnDArgument : "var" "segments_remaining"
 segments_remaining = 0;

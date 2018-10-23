@@ -39,3 +39,10 @@ with(template_boss_core_base) {
 segments_remaining += 1;
 
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 627F1AE8
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "destroyed"
+destroyed = false;

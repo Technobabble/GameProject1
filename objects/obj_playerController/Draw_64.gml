@@ -40,6 +40,14 @@ if(l36AF4014_0)
 	/// @DnDArgument : "maxcol" "$FF8CFF00"
 	draw_healthbar(0, 0, 100, 30, (current_health/max_health) * 100, $FF0000FF & $FFFFFF, $FFFFFF & $FFFFFF, $FF8CFF00 & $FFFFFF, 0, (($FF0000FF>>24) != 0), (($FF999999>>24) != 0));
 
+	/// @DnDAction : YoYo Games.Instance Variables.Get_Score
+	/// @DnDVersion : 1
+	/// @DnDHash : 159F6537
+	/// @DnDParent : 36AF4014
+	/// @DnDArgument : "var" "player_score"
+	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+	player_score = __dnd_score;
+
 	/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 	/// @DnDVersion : 1
 	/// @DnDHash : 72161EFA
