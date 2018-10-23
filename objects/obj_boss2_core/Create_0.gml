@@ -22,15 +22,15 @@ hdir = 1;
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 0661BBA7
-/// @DnDArgument : "objectid" "obj_boss_wingL"
+/// @DnDArgument : "objectid" "obj_boss2_wingL"
 /// @DnDArgument : "layer" ""Bosses""
-/// @DnDSaveInfo : "objectid" "3fdc9c8c-ee24-45c2-b137-8cded71650c3"
-instance_create_layer(0, 0, "Bosses", obj_boss_wingL);
+/// @DnDSaveInfo : "objectid" "33cf60c8-9756-412c-b5b2-25f184bbb4ba"
+instance_create_layer(0, 0, "Bosses", obj_boss2_wingL);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 500895B6
-/// @DnDArgument : "objectid" "obj_boss_wingR"
+/// @DnDArgument : "objectid" "obj_boss2_wingR"
 /// @DnDArgument : "layer" ""Bosses""
-/// @DnDSaveInfo : "objectid" "e1da3a84-b350-4192-9596-79c7051c3cab"
-instance_create_layer(0, 0, "Bosses", obj_boss_wingR);
+/// @DnDSaveInfo : "objectid" "c28862c3-f6fb-481e-9015-7ccddf927e13"
+instance_create_layer(0, 0, "Bosses", obj_boss2_wingR);
