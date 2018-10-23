@@ -1,3 +1,17 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4BC85600
+/// @DnDArgument : "var" "segments_remaining"
+/// @DnDArgument : "op" "3"
+if(segments_remaining <= 0)
+{
+	/// @DnDAction : YoYo Games.Instances.Call_User_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 42E093C2
+	/// @DnDParent : 4BC85600
+	event_user(0);
+}
+
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 29784ED4

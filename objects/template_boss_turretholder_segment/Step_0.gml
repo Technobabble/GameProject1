@@ -43,9 +43,23 @@ else
 /// @DnDArgument : "op" "3"
 if(turrets_remaining <= 0)
 {
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
-	/// @DnDHash : 4C67E2B3
+	/// @DnDHash : 476BF5A0
 	/// @DnDParent : 02A313EF
-	instance_destroy();
+	/// @DnDArgument : "spriteind" "destroyed_sprite"
+	sprite_index = destroyed_sprite;
+	image_index = 0;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 10E7E1C7
+	/// @DnDApplyTo : c9ae24a4-ae96-4a5b-8391-4b11b4e89ce9
+	/// @DnDParent : 02A313EF
+	/// @DnDArgument : "expr" "-1"
+	/// @DnDArgument : "var" "segments_remaining"
+	with(template_boss_core_base) {
+	segments_remaining = -1;
+	
+	}
 }
