@@ -1,5 +1,5 @@
 {
-    "id": "dae2f987-8a35-4379-aac4-f41b5d27df67",
+    "id": "8e76d718-69c2-4065-b846-78e299db96d4",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_gameplay_theme",

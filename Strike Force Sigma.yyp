@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "236ddb07-02f4-42c2-818f-cb9e8dae1b25",
-            "Value": {
-                "id": "7b866bc0-29c6-4928-a600-1cc968aebaf5",
-                "resourcePath": "sprites\\test\\test.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2445cbd8-7543-4775-9beb-2d414259ea57",
             "Value": {
                 "id": "51d112d5-e4dd-4f4f-a26b-27cb75201c0f",
@@ -196,6 +188,14 @@
                 "id": "07caa26c-6430-4e62-b1fd-85e13ac851cd",
                 "resourcePath": "sprites\\spr_blast1\\spr_blast1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2b96775e-e5d5-44cb-8a0c-8b9b4886c788",
+            "Value": {
+                "id": "3ac1656d-56ef-4067-bf05-7ffdfa2db2d5",
+                "resourcePath": "sounds\\snd_boss_explosion_2\\snd_boss_explosion_2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -268,6 +268,14 @@
                 "id": "f2aa8a01-e3a1-4e61-89fb-a654680f1c57",
                 "resourcePath": "objects\\obj_boss2_core_turrets\\obj_boss2_core_turrets.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3c712069-42d6-48d7-a56c-081dfc7b33a9",
+            "Value": {
+                "id": "f801167f-3930-47a8-83e9-7e427561edfb",
+                "resourcePath": "sounds\\snd_game_lose\\snd_game_lose.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -427,6 +435,14 @@
             "Value": {
                 "id": "61bc3948-2489-485e-bd1d-ee856eefc66f",
                 "resourcePath": "sounds\\snd_menu_music\\snd_menu_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6103bfd8-db43-4fb7-92d1-47d1b5149c45",
+            "Value": {
+                "id": "558959cb-2e49-4d88-90e2-e02f1477399e",
+                "resourcePath": "sounds\\snd_boss_arrival\\snd_boss_arrival.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -623,6 +639,14 @@
             }
         },
         {
+            "Key": "885644c0-1b03-4e89-a996-8e40856419af",
+            "Value": {
+                "id": "d36f4509-193e-41ce-9762-324bfb0a76f9",
+                "resourcePath": "sprites\\spr_explosion_animation\\spr_explosion_animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a4e3fad-992d-4db5-a4a7-dbb95358b206",
             "Value": {
                 "id": "10089372-144a-4ad9-a313-3b2a191c137d",
@@ -639,11 +663,27 @@
             }
         },
         {
+            "Key": "8aa1ae1e-0374-4157-87b4-4a2ae08e84bd",
+            "Value": {
+                "id": "3e2902dc-9591-4e56-b7a2-5fd5c16f8a64",
+                "resourcePath": "sounds\\snd_victory\\snd_victory.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8ae3d4e9-dc34-4b72-92e6-1476c81afa5f",
             "Value": {
                 "id": "54df68da-cc87-4ffd-a2ec-0ce76145e04f",
                 "resourcePath": "views\\8ae3d4e9-dc34-4b72-92e6-1476c81afa5f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e76d718-69c2-4065-b846-78e299db96d4",
+            "Value": {
+                "id": "fa56a52c-03fe-4c48-a2ab-dc274e45e34a",
+                "resourcePath": "sounds\\snd_gameplay_theme\\snd_gameplay_theme.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -796,14 +836,6 @@
                 "id": "05ac2b88-da0f-47e3-974b-ae440eff8070",
                 "resourcePath": "objects\\obj_blast3\\obj_blast3.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "b8d92535-b1ee-4b3a-a5ca-39d389282d3c",
-            "Value": {
-                "id": "388a5f05-3899-4f0a-8e23-f75f8bd2ca5b",
-                "resourcePath": "sprites\\sprite45\\sprite45.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1020,6 +1052,14 @@
                 "id": "a5a8de32-846e-4bd3-be8a-c425344f2317",
                 "resourcePath": "objects\\obj_boss_wingR\\obj_boss_wingR.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e5105e5d-22aa-4fc4-aabc-f356a147a255",
+            "Value": {
+                "id": "99c98e9c-6259-4c11-965a-75ccb9a15585",
+                "resourcePath": "sounds\\snd_boss_explosion_1\\snd_boss_explosion_1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
