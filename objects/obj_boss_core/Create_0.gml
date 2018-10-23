@@ -1,5 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 5332215B
+/// @DnDArgument : "var" "segments_remaining"
+segments_remaining = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 69369F6F
 /// @DnDArgument : "expr" "0.5"
 /// @DnDArgument : "var" "local_speed"

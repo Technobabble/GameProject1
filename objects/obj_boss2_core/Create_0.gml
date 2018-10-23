@@ -1,5 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 5C405E1A
+/// @DnDArgument : "var" "segments_remaining"
+segments_remaining = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 69369F6F
 /// @DnDArgument : "expr" "0.5"
 /// @DnDArgument : "var" "local_speed"
@@ -18,6 +24,21 @@ hspeed = local_speed;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "hdir"
 hdir = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4208EE64
+/// @DnDArgument : "expr" "y-160"
+/// @DnDArgument : "var" "y"
+y = y-160;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+/// @DnDVersion : 1
+/// @DnDHash : 4630EE3A
+/// @DnDArgument : "xscale" "2"
+/// @DnDArgument : "yscale" "2"
+image_xscale = 2;
+image_yscale = 2;
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
@@ -39,6 +60,6 @@ instance_create_layer(0, 0, "Bosses", obj_boss2_wingR);
 /// @DnDVersion : 1
 /// @DnDHash : 05F09651
 /// @DnDArgument : "objectid" "obj_boss2_core_turrets"
-/// @DnDArgument : "layer" ""Bosses""
+/// @DnDArgument : "layer" ""Danger""
 /// @DnDSaveInfo : "objectid" "3c6df9d4-47c6-4e03-b26d-cfa055ab0f79"
-instance_create_layer(0, 0, "Bosses", obj_boss2_core_turrets);
+instance_create_layer(0, 0, "Danger", obj_boss2_core_turrets);
